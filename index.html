@@ -618,7 +618,15 @@ function renderDashboard() {
   const totalKcal = meals.reduce(function(s, m) { return s + (m.kcal || 0); }, 0);
   const pct = goalG > 0 ? Math.min(1, totalProtein / goalG) : 0;
   const remaining = Math.max(0, Math.round(goalG - totalProtein));
-  const today = new Date().toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" }).toLowerCase();
+  const today = (() => {
+  const d = new Date().toLocaleDateString("es-ES", {
+    weekday: "long",
+    day: "numeric",
+    month: "long"
+  }).toLowerCase();
+
+  return d.charAt(0).toUpperCase() + d.slice(1);
+})();
 
   const greetName = profile && profile.name ? escapeHtml(profile.name) : "";
 
