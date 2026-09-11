@@ -1249,8 +1249,22 @@ document.getElementById("app").addEventListener("input", function(e) {
 
   if (field === "ob-name") { state.ob.name = v; render(); return; }
   if (field === "ob-age") { state.ob.age = v; return; }
-  if (field === "ob-height") { state.ob.height = v; return; }
-  if (field === "ob-weight") { state.ob.weight = v; return; }
+  if (field === "ob-height") {
+  state.ob.height = v;
+  const heightN = parseFloat(state.ob.height);
+  const weightN = parseFloat(state.ob.weight);
+  const btn = document.querySelector('[data-action="ob-next"]');
+  if (btn) btn.disabled = !(heightN >= 100 && heightN <= 250 && weightN >= 30 && weightN <= 300);
+  return;
+}
+  if (field === "ob-weight") {
+  state.ob.weight = v;
+  const heightN = parseFloat(state.ob.height);
+  const weightN = parseFloat(state.ob.weight);
+  const btn = document.querySelector('[data-action="ob-next"]');
+  if (btn) btn.disabled = !(heightN >= 100 && heightN <= 250 && weightN >= 30 && weightN <= 300);
+  return;
+}
   if (field === "add-meal-query") { state.addMeal.query = v; state.addMeal.selectedFoodId = null; render(); return; }
   if (field === "qty-value") {
     const n = parseFloat(v.replace(",", "."));
