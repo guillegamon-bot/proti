@@ -1172,6 +1172,11 @@ document.getElementById("app").addEventListener("click", function(e) {
     return;
   }
   if (action === "delete-meal") { deleteMealById(id); return; }
+  if (action === "toggle-meal-order") {
+  state.mealOrder = state.mealOrder === "newest" ? "oldest" : "newest";
+  render();
+  return;
+}
 
   if (action === "toggle-history-day") {
     state.expandedHistoryDay = state.expandedHistoryDay === el.dataset.day ? null : el.dataset.day;
