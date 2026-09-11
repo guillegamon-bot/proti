@@ -671,7 +671,8 @@ function renderDashboard() {
 const FAB_HTML = '<button class="fab" data-action="open-add-meal">' + ICONS.plus + '</button>';
 
 function renderGroupedMeals(meals) {
-  const groups = groupMealsByType(meals);
+    const orderedMeals = state.mealOrder === "newest" ? meals.slice().reverse() : meals.slice();
+  const groups = groupMealsByType(orderedMeals);
   return groups.map(function (g) {
     return (
       '<div style="margin-bottom:16px;">' +
