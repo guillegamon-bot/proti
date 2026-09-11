@@ -659,7 +659,14 @@ function renderDashboard() {
       '<div class="stat-mini"><div class="v">' + Math.round(totalKcal).toLocaleString() + '</div><div class="l">CALORÍAS HOY</div></div>' +
       '<div class="stat-mini"><div class="v">' + meals.length + '</div><div class="l">COMIDAS REGISTRADAS</div></div>' +
     '</div>' +
-    '<div class="meals-header"><h2>Comidas de hoy</h2><span class="section-title">' + meals.length + (meals.length === 1 ? " registro" : " registros") + '</span></div>' +
+    '<div class="meals-header"><h2>Comidas de hoy</h2>' +
+  '<div style="display:flex; align-items:center; gap:10px;">' +
+    '<button class="sort-btn" data-action="toggle-meal-order" aria-label="Cambiar orden">' +
+      ICONS.sort +
+    '</button>' +
+    '<span class="section-title">' + meals.length + (meals.length === 1 ? " registro" : " registros") + '</span>' +
+  '</div>' +
+'</div>' +
     (meals.length === 0
       ? '<div class="empty-state">Aún no registras comidas hoy.<br/>Toca el botón + para agregar la primera.</div>'
       : renderGroupedMeals(meals)
