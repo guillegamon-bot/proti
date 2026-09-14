@@ -575,9 +575,9 @@ function renderOnboarding() {
       '<p class="sub">Usamos tu peso para calcular los gramos exactos de proteína que necesitas al día.</p>' +
       '<div class="row">' +
         '<div class="grow"><label class="label">Altura (cm)</label>' +
-          '<input id="input-height" class="input" type="number" inputmode="decimal" step="any" placeholder="170" value="' + escapeHtml(ob.height) + '" data-field="ob-height" /></div>' +
+          '<input id="input-height" class="input" type="text" inputmode="decimal" placeholder="170" value="' + escapeHtml(ob.height) + '" data-field="ob-height" /></div>' +
         '<div class="grow"><label class="label">Peso (kg)</label>' +
-          '<input id="input-weight" class="input" type="number" inputmode="decimal" step="any" placeholder="68" value="' + escapeHtml(ob.weight) + '" data-field="ob-weight" /></div>' +
+          '<input id="input-weight" class="input" type="text" inputmode="decimal" placeholder="68" value="' + escapeHtml(ob.weight) + '" data-field="ob-weight" /></div>' +
       '</div>';
   } else if (step === 2) {
     canContinue = !!ob.goal;
@@ -905,8 +905,8 @@ function renderSettings() {
           }).join("") +
         '</div>' +
         '<div class="row">' +
-          '<div class="grow"><label class="label">Altura (cm)</label><input id="input-settings-height" class="input" type="number" inputmode="decimal" step="any" value="' + escapeHtml(d.height) + '" data-field="settings-height" /></div>' +
-          '<div class="grow"><label class="label">Peso (kg)</label><input id="input-settings-weight" class="input" type="number" inputmode="decimal" step="any" value="' + escapeHtml(d.weight) + '" data-field="settings-weight" /></div>' +
+          '<div class="grow"><label class="label">Altura (cm)</label><input id="input-settings-height" class="input" type="text" inputmode="decimal" step="any" value="' + escapeHtml(d.height) + '" data-field="settings-height" /></div>' +
+          '<div class="grow"><label class="label">Peso (kg)</label><input id="input-settings-weight" class="input" type="text" inputmode="decimal" step="any" value="' + escapeHtml(d.weight) + '" data-field="settings-weight" /></div>' +
         '</div>' +
       '</div>' +
       '<div class="card">' +
@@ -997,7 +997,7 @@ function renderAddMeal() {
           : "") +
         '<div class="qty-stepper">' +
           '<button class="qty-btn" data-action="qty-delta" data-delta="-' + step + '">−</button>' +
-          '<input id="input-qty-val" class="qty-val-input" type="number" inputmode="decimal" step="any" min="0" value="' + qty + '" data-field="qty-value" />' +
+          '<input id="input-qty-val" class="qty-val-input" type="text" inputmode="decimal" step="any" min="0" value="' + qty + '" data-field="qty-value" />' +
           '<button class="qty-btn" data-action="qty-delta" data-delta="' + step + '">+</button>' +
         '</div>' +
         '<p style="text-align:center; font-size:12.5px; color:var(--muted); margin:0 0 14px;">' +
@@ -1021,7 +1021,7 @@ function renderAddMeal() {
         '<label class="label">Nombre del alimento</label>' +
         '<input id="input-manual-name" class="input" style="margin-bottom:14px;" placeholder="Ej. Ensalada de la cafetería" value="' + escapeHtml(am.manualName) + '" data-field="manual-name" />' +
         '<div class="row" style="margin-bottom:14px;">' +
-          '<div class="grow"><label class="label">Proteína (g)</label><input id="input-manual-protein" class="input" type="number" inputmode="decimal" step="any" placeholder="0" value="' + escapeHtml(am.manualProtein) + '" data-field="manual-protein" /></div>' +
+          '<div class="grow"><label class="label">Proteína (g)</label><input id="input-manual-protein" class="input" type="text" inputmode="decimal" placeholder="0" value="' + escapeHtml(am.manualProtein) + '" data-field="manual-protein" /></div>' +
           '<div class="grow"><label class="label">Calorías (opcional)</label><input id="input-manual-calories" class="input" type="number" inputmode="decimal" step="any" placeholder="0" value="' + escapeHtml(am.manualCalories) + '" data-field="manual-calories" /></div>' +
         '</div>' +
         '<label class="label">Hora</label>' +
