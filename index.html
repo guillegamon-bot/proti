@@ -285,8 +285,27 @@ const FOOD_CATALOG = [
   { id: "f-edamame", name: "Edamame", protein100: 11.0, kcal100: 121, unit: "g", portionG: 100, portionLabel: "porción" },
 ];
 
-function allFoods() { return FOOD_CATALOG.concat(getCustomFoods()); }
-function findFood(id) { return allFoods().find(f => f.id === id) || null; }
+let USDA_FOODS = [];
+
+function allFoods() {
+  return FOOD_CATALOG.concat(USDA_FOODS).concat(getCustomFoods());
+}
+
+function findFood(id) {
+  return allFoods().find(f => f.id === id) || null;
+}
+
+fetch("proti-foods.json")
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (foods) {
+    USDA_FOODS = foods;
+    render();
+  })
+  .catch(function (error) {
+    console.error("No se pudo cargar la base de alimentos:", error);
+  });
 
 /* ---------------- Cálculo de proteína (evidencia científica) ---------------- */
 const BASE_RANGES = {
