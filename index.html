@@ -1082,7 +1082,9 @@ function renderAddMeal() {
   }
 
   if (showQuickAccess) html += renderQuickAccess(favorites, recent);
-
+  if (am.selectedFoodId && am.mode === "search") {
+  html += quantityBlock;
+  }
   if (query.length >= 1) {
     html += '<div style="padding:0 20px;"><div class="section-title" style="margin-bottom:10px;">Resultados</div><div style="display:flex; flex-direction:column; gap:8px;">';
     for (let i = 0; i < results.length; i++) {
@@ -1103,7 +1105,7 @@ function renderAddMeal() {
     html += '</div></div>';
   }
 
-  html += manualBlock + quantityBlock;
+  html += manualBlock;
   html += '<div class="footer-note">Meta: registrar una comida en menos de 10 segundos.</div>';
   html += '</div></div>';
   return html;
