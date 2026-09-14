@@ -1137,7 +1137,6 @@ document.getElementById("app").addEventListener("click", function(e) {
   if (action === "ob-set-goal") { state.ob.goal = value; render(); return; }
   if (action === "ob-set-activity") { state.ob.activity = value; render(); return; }
   if (action === "ob-next") { state.ob.step = Math.min(3, state.ob.step + 1); render(); return; }
-}
   if (action === "ob-prev") { state.ob.step = Math.max(0, state.ob.step - 1); render(); return; }
   if (action === "ob-finish") { finishOnboarding(); return; }
 
