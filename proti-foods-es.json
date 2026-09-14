@@ -1,0 +1,2791 @@
+[
+  {
+    "id": "usda-321358",
+    "name": "Hummus comercial",
+    "protein100": 7.35,
+    "kcal100": 229,
+    "unit": "g",
+    "portionG": 33.9,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-321360",
+    "name": "Tomates cherry, crudos",
+    "protein100": 0.83,
+    "kcal100": 27,
+    "unit": "g",
+    "portionG": 49.7,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-321611",
+    "name": "Judías verdes en conserva, escurridas",
+    "protein100": 1.04,
+    "kcal100": 21,
+    "unit": "g",
+    "portionG": 129.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323121",
+    "name": "Salchicha tipo Frankfurt de res, sin calentar",
+    "protein100": 11.7,
+    "kcal100": 314,
+    "unit": "g",
+    "portionG": 48.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323294",
+    "name": "Almendras tostadas secas, con sal",
+    "protein100": 20.4,
+    "kcal100": 620,
+    "unit": "g",
+    "portionG": 135.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323505",
+    "name": "Col rizada (kale), cruda",
+    "protein100": 2.92,
+    "kcal100": 35,
+    "unit": "g",
+    "portionG": 20.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323604",
+    "name": "Huevo entero, crudo, congelado, pasteurizado",
+    "protein100": 12.3,
+    "kcal100": 150,
+    "unit": "g",
+    "portionG": 28.4,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323697",
+    "name": "Clara de huevo, cruda, congelada, pasteurizada",
+    "protein100": 10.1,
+    "kcal100": 48,
+    "unit": "g",
+    "portionG": 28.4,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-323793",
+    "name": "Clara de huevo deshidratada",
+    "protein100": 79.9,
+    "kcal100": 375,
+    "unit": "g",
+    "portionG": 7.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-324317",
+    "name": "Aros de cebolla empanizados, congelados, horneados",
+    "protein100": 4.52,
+    "kcal100": 288,
+    "unit": "g",
+    "portionG": 20.2,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-324653",
+    "name": "Pepinillos de pepino con eneldo",
+    "protein100": 0.48,
+    "kcal100": 12,
+    "unit": "g",
+    "portionG": 40.4,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-325036",
+    "name": "Queso parmesano rallado",
+    "protein100": 29.6,
+    "kcal100": 421,
+    "unit": "g",
+    "portionG": 7.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-325198",
+    "name": "Queso procesado americano, enriquecido con vitamina D",
+    "protein100": 18.0,
+    "kcal100": 366,
+    "unit": "g"
+  },
+  {
+    "id": "usda-325287",
+    "name": "Zumo de pomelo blanco, sin azúcar",
+    "protein100": 0.55,
+    "kcal100": 38,
+    "unit": "g",
+    "portionG": 257.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-325430",
+    "name": "Melocotón amarillo, crudo",
+    "protein100": 0.91,
+    "kcal100": 42,
+    "unit": "g",
+    "portionG": 147.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-325524",
+    "name": "Semillas de girasol tostadas, con sal",
+    "protein100": 21.0,
+    "kcal100": 612,
+    "unit": "g",
+    "portionG": 127.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-326196",
+    "name": "Col rizada (kale) congelada, cocida, sin sal",
+    "protein100": 2.94,
+    "kcal100": 36,
+    "unit": "g",
+    "portionG": 118.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-326698",
+    "name": "Mostaza amarilla preparada",
+    "protein100": 4.25,
+    "kcal100": 61,
+    "unit": "g",
+    "portionG": 249.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-327046",
+    "name": "Kiwi verde, crudo",
+    "protein100": 1.06,
+    "kcal100": 58,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-327357",
+    "name": "Nectarina, cruda",
+    "protein100": 1.06,
+    "kcal100": 39,
+    "unit": "g",
+    "portionG": 129.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-328637",
+    "name": "Queso cheddar",
+    "protein100": 23.3,
+    "kcal100": 408,
+    "unit": "g",
+    "portionG": 17.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-328841",
+    "name": "Queso cottage bajo en grasa, 2% de grasa",
+    "protein100": 11.0,
+    "kcal100": 84,
+    "unit": "g",
+    "portionG": 220.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-329370",
+    "name": "Queso mozzarella semidesnatado, de baja humedad",
+    "protein100": 23.7,
+    "kcal100": 296,
+    "unit": "g"
+  },
+  {
+    "id": "usda-329490",
+    "name": "Huevo entero deshidratado",
+    "protein100": 48.1,
+    "kcal100": 576,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-329596",
+    "name": "Yema de huevo, cruda, congelada, pasteurizada",
+    "protein100": 15.6,
+    "kcal100": 296,
+    "unit": "g",
+    "portionG": 28.4,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-329716",
+    "name": "Yema de huevo deshidratada",
+    "protein100": 34.2,
+    "kcal100": 654,
+    "unit": "g",
+    "portionG": 4.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-330137",
+    "name": "Yogur griego natural desnatado",
+    "protein100": 10.3,
+    "kcal100": 61,
+    "unit": "g",
+    "portionG": 156.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-330415",
+    "name": "Yogur griego de fresa desnatado",
+    "protein100": 8.06,
+    "kcal100": 83,
+    "unit": "g",
+    "portionG": 150.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-330458",
+    "name": "Aceite de coco",
+    "protein100": 0.0,
+    "kcal100": 832,
+    "unit": "g",
+    "portionG": 11.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-331897",
+    "name": "Pollo, muslo inferior, solo carne, cocido",
+    "protein100": 23.9,
+    "kcal100": 156,
+    "unit": "g",
+    "portionG": 104.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-331960",
+    "name": "Pechuga de pollo sin piel ni hueso, cocida",
+    "protein100": 32.1,
+    "kcal100": 166,
+    "unit": "g",
+    "portionG": 174.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-332282",
+    "name": "Salsa para pasta, espagueti/marinara, lista para servir",
+    "protein100": 1.41,
+    "kcal100": 45,
+    "unit": "g"
+  },
+  {
+    "id": "usda-332397",
+    "name": "Jamón loncheado, envasado, 96% sin grasa, con agua añadida",
+    "protein100": 16.7,
+    "kcal100": 106,
+    "unit": "g",
+    "portionG": 13.5,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-332791",
+    "name": "Aceitunas verdes Manzanilla rellenas de pimiento",
+    "protein100": 1.15,
+    "kcal100": 130,
+    "unit": "g",
+    "portionG": 3.2,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-333008",
+    "name": "Galletas blandas de avena con pasas",
+    "protein100": 5.79,
+    "kcal100": 430,
+    "unit": "g",
+    "portionG": 27.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-333281",
+    "name": "Tomates rojos maduros en cubos, en conserva",
+    "protein100": 0.84,
+    "kcal100": 18,
+    "unit": "g",
+    "portionG": 245.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-333374",
+    "name": "Abadejo, crudo",
+    "protein100": 16.3,
+    "kcal100": 74,
+    "unit": "g",
+    "portionG": 176.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-333476",
+    "name": "Abadejo de Alaska, crudo",
+    "protein100": 12.3,
+    "kcal100": 56,
+    "unit": "g",
+    "portionG": 177.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-334194",
+    "name": "Atún claro en agua, en conserva, escurrido",
+    "protein100": 19.0,
+    "kcal100": 90,
+    "unit": "g",
+    "portionG": 142.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-334536",
+    "name": "Arroz frito chino sin carne",
+    "protein100": 3.84,
+    "kcal100": 174,
+    "unit": "g",
+    "portionG": 133.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-334628",
+    "name": "Tamal latino de cerdo",
+    "protein100": 7.38,
+    "kcal100": 174,
+    "unit": "g",
+    "portionG": 142.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-334720",
+    "name": "Pupusas con frijoles",
+    "protein100": 5.59,
+    "kcal100": 229,
+    "unit": "g",
+    "portionG": 126.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746758",
+    "name": "Solomillo de res, sin hueso, magro, asado",
+    "protein100": 27.7,
+    "kcal100": 176,
+    "unit": "g",
+    "portionG": 462.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746759",
+    "name": "Bistec de lomo alto de res, sin hueso, crudo",
+    "protein100": 22.8,
+    "kcal100": 155,
+    "unit": "g"
+  },
+  {
+    "id": "usda-746760",
+    "name": "Redondo de res, sin hueso, magro, crudo",
+    "protein100": 23.4,
+    "kcal100": 122,
+    "unit": "g",
+    "portionG": 690.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746761",
+    "name": "Tapa de redondo de res, sin hueso, magra, cruda",
+    "protein100": 23.7,
+    "kcal100": 123,
+    "unit": "g",
+    "portionG": 788.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746762",
+    "name": "Bistec porterhouse de res, magro, crudo",
+    "protein100": 22.7,
+    "kcal100": 145,
+    "unit": "g",
+    "portionG": 525.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746763",
+    "name": "Bistec T-bone de res, con hueso, a la parrilla",
+    "protein100": 27.3,
+    "kcal100": 219,
+    "unit": "g",
+    "portionG": 360.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746764",
+    "name": "Zanahorias congeladas, sin preparar",
+    "protein100": 0.81,
+    "kcal100": 37,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746765",
+    "name": "Queso seco",
+    "protein100": 24.5,
+    "kcal100": 325,
+    "unit": "g",
+    "portionG": 97.3,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746766",
+    "name": "Queso ricotta de leche entera",
+    "protein100": 7.81,
+    "kcal100": 157,
+    "unit": "g",
+    "portionG": 64.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746767",
+    "name": "Queso suizo",
+    "protein100": 27.0,
+    "kcal100": 393,
+    "unit": "g",
+    "portionG": 21.9,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746768",
+    "name": "Higos secos, sin cocinar",
+    "protein100": 3.3,
+    "kcal100": 249,
+    "unit": "g",
+    "portionG": 8.4,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746769",
+    "name": "Lechuga romana, cruda",
+    "protein100": 1.24,
+    "kcal100": 17,
+    "unit": "g",
+    "portionG": 581.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746770",
+    "name": "Melón cantalupo, crudo",
+    "protein100": 0.82,
+    "kcal100": 34,
+    "unit": "g",
+    "portionG": 69.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746771",
+    "name": "Naranjas navel, crudas",
+    "protein100": 0.91,
+    "kcal100": 47,
+    "unit": "g",
+    "portionG": 165.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746772",
+    "name": "Leche semidesnatada, 1% de grasa, con vitaminas A y D",
+    "protein100": 3.38,
+    "kcal100": 43,
+    "unit": "g",
+    "portionG": 246.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746773",
+    "name": "Pera Bartlett, cruda",
+    "protein100": 0.38,
+    "kcal100": 57,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746774",
+    "name": "Cerdo agridulce chino",
+    "protein100": 8.88,
+    "kcal100": 261,
+    "unit": "g",
+    "portionG": 611.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746776",
+    "name": "Leche desnatada, con vitaminas A y D",
+    "protein100": 3.43,
+    "kcal100": 34,
+    "unit": "g",
+    "portionG": 246.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746777",
+    "name": "Salsa, lista para servir",
+    "protein100": 1.44,
+    "kcal100": 29,
+    "unit": "g",
+    "portionG": 35.7,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746778",
+    "name": "Leche semidesnatada, 2% de grasa, con vitaminas A y D",
+    "protein100": 3.36,
+    "kcal100": 50,
+    "unit": "g",
+    "portionG": 245.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746779",
+    "name": "Salchicha de desayuno de res, precocida",
+    "protein100": 13.3,
+    "kcal100": 328,
+    "unit": "g",
+    "portionG": 18.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746780",
+    "name": "Salchicha italiana suave de cerdo, a la sartén",
+    "protein100": 18.2,
+    "kcal100": 322,
+    "unit": "g",
+    "portionG": 86.6,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746781",
+    "name": "Chorizo de cerdo, cocinado a la sartén",
+    "protein100": 19.3,
+    "kcal100": 346,
+    "unit": "g",
+    "portionG": 186.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746782",
+    "name": "Leche entera, 3,25% de grasa, con vitamina D",
+    "protein100": 3.27,
+    "kcal100": 60,
+    "unit": "g",
+    "portionG": 249.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746783",
+    "name": "Salchichas suaves de desayuno de pavo, crudas",
+    "protein100": 16.7,
+    "kcal100": 169,
+    "unit": "g",
+    "portionG": 450.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746784",
+    "name": "Azúcar granulado",
+    "protein100": 0.0,
+    "kcal100": 385,
+    "unit": "g",
+    "portionG": 4.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746785",
+    "name": "Pavo picado, 93% magro, 7% grasa, a la plancha",
+    "protein100": 27.1,
+    "kcal100": 220,
+    "unit": "g",
+    "portionG": 155.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-746952",
+    "name": "Jamón loncheado, restaurante",
+    "protein100": 19.6,
+    "kcal100": 121,
+    "unit": "g",
+    "portionG": 16.2,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-747429",
+    "name": "Queso americano, restaurante",
+    "protein100": 17.5,
+    "kcal100": 375,
+    "unit": "g"
+  },
+  {
+    "id": "usda-747447",
+    "name": "Brócoli, crudo",
+    "protein100": 2.57,
+    "kcal100": 32,
+    "unit": "g",
+    "portionG": 76.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-747693",
+    "name": "Kétchup, restaurante",
+    "protein100": 1.11,
+    "kcal100": 117,
+    "unit": "g"
+  },
+  {
+    "id": "usda-747997",
+    "name": "Clara de huevo, tamaño grande",
+    "protein100": 10.7,
+    "kcal100": 55,
+    "unit": "g",
+    "portionG": 34.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-748236",
+    "name": "Yema de huevo, tamaño grande",
+    "protein100": 16.2,
+    "kcal100": 334,
+    "unit": "g",
+    "portionG": 17.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-748967",
+    "name": "Huevo entero, tamaño grande",
+    "protein100": 12.4,
+    "kcal100": 148,
+    "unit": "g",
+    "portionG": 50.3,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-749420",
+    "name": "Bacon de cerdo curado, cocinado",
+    "protein100": 40.9,
+    "kcal100": 500,
+    "unit": "g"
+  },
+  {
+    "id": "usda-789890",
+    "name": "Harina de trigo de uso general, enriquecida y blanqueada",
+    "protein100": 10.9,
+    "kcal100": 366,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-789951",
+    "name": "Harina de trigo de uso general, enriquecida, sin blanquear",
+    "protein100": 13.1,
+    "kcal100": 359,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790018",
+    "name": "Harina de trigo de uso general, sin enriquecer y sin blanquear",
+    "protein100": 12.0,
+    "kcal100": 362,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790085",
+    "name": "Harina integral de trigo, sin enriquecer",
+    "protein100": 15.1,
+    "kcal100": 370,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790146",
+    "name": "Harina de fuerza blanca, enriquecida, sin blanquear",
+    "protein100": 14.3,
+    "kcal100": 363,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790214",
+    "name": "Harina de arroz blanca, sin enriquecer",
+    "protein100": 6.94,
+    "kcal100": 359,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790276",
+    "name": "Harina de maíz amarilla fina, enriquecida",
+    "protein100": 6.2,
+    "kcal100": 364,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790577",
+    "name": "Cebolla morada, cruda",
+    "protein100": 0.94,
+    "kcal100": 44,
+    "unit": "g",
+    "portionG": 197.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-790646",
+    "name": "Cebolla amarilla, cruda",
+    "protein100": 0.83,
+    "kcal100": 38,
+    "unit": "g",
+    "portionG": 143.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104647",
+    "name": "Ajo, crudo",
+    "protein100": 6.62,
+    "kcal100": 143,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104705",
+    "name": "Harina de soja desgrasada",
+    "protein100": 51.1,
+    "kcal100": 366,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104766",
+    "name": "Harina de soja entera",
+    "protein100": 38.6,
+    "kcal100": 452,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104812",
+    "name": "Harina de arroz integral",
+    "protein100": 7.19,
+    "kcal100": 378,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104867",
+    "name": "Harina de arroz glutinoso",
+    "protein100": 6.69,
+    "kcal100": 358,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104913",
+    "name": "Harina de repostería, sin enriquecer y sin blanquear",
+    "protein100": 8.75,
+    "kcal100": 358,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1104962",
+    "name": "Cebolla blanca, cruda",
+    "protein100": 0.89,
+    "kcal100": 35,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1105073",
+    "name": "Plátano muy maduro, crudo",
+    "protein100": 0.73,
+    "kcal100": 85,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1105314",
+    "name": "Plátano maduro, crudo",
+    "protein100": 0.74,
+    "kcal100": 98,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1750339",
+    "name": "Manzana Red Delicious con piel, cruda",
+    "protein100": 0.19,
+    "kcal100": 62,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1750340",
+    "name": "Manzana Fuji con piel, cruda",
+    "protein100": 0.15,
+    "kcal100": 65,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1750341",
+    "name": "Manzana Gala con piel, cruda",
+    "protein100": 0.13,
+    "kcal100": 61,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1750342",
+    "name": "Manzana Granny Smith con piel, cruda",
+    "protein100": 0.27,
+    "kcal100": 59,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1750343",
+    "name": "Manzana Honeycrisp con piel, cruda",
+    "protein100": 0.1,
+    "kcal100": 60,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999626",
+    "name": "Melena de león",
+    "protein100": 2.5,
+    "kcal100": 43,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999627",
+    "name": "Seta de ostra",
+    "protein100": 2.9,
+    "kcal100": 41,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999628",
+    "name": "Setas shiitake",
+    "protein100": 2.41,
+    "kcal100": 44,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999629",
+    "name": "Champiñones blancos",
+    "protein100": 2.89,
+    "kcal100": 31,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999630",
+    "name": "Bebida de soja natural sin azúcar, UHT",
+    "protein100": 3.55,
+    "kcal100": 38,
+    "unit": "g"
+  },
+  {
+    "id": "usda-1999631",
+    "name": "Bebida de almendras natural sin azúcar, UHT",
+    "protein100": 0.56,
+    "kcal100": 15,
+    "unit": "g"
+  },
+  {
+    "id": "usda-1999632",
+    "name": "Espinaca baby",
+    "protein100": 2.85,
+    "kcal100": 27,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999633",
+    "name": "Espinaca madura",
+    "protein100": 2.91,
+    "kcal100": 28,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-1999634",
+    "name": "Tomate Roma",
+    "protein100": 0.7,
+    "kcal100": 22,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003586",
+    "name": "Harina tipo 00",
+    "protein100": 11.4,
+    "kcal100": 357,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003587",
+    "name": "Harina integral de espelta",
+    "protein100": 14.5,
+    "kcal100": 364,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003588",
+    "name": "Sémola de trigo gruesa y semigruesa",
+    "protein100": 11.7,
+    "kcal100": 357,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003589",
+    "name": "Sémola de trigo fina",
+    "protein100": 13.3,
+    "kcal100": 358,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003590",
+    "name": "Zumo de manzana con vitamina C, a partir de concentrado",
+    "protein100": 0.09,
+    "kcal100": 48,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003591",
+    "name": "Zumo de naranja sin pulpa, a partir de concentrado, refrigerado",
+    "protein100": 0.73,
+    "kcal100": 47,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003592",
+    "name": "Zumo de uva morada con vitamina C, a partir de concentrado",
+    "protein100": 0.26,
+    "kcal100": 66,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003593",
+    "name": "Zumo de uva blanca con vitamina C, a partir de concentrado",
+    "protein100": 0.09,
+    "kcal100": 66,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003594",
+    "name": "Zumo de arándano rojo, a partir de concentrado",
+    "protein100": 0.0,
+    "kcal100": 32,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003595",
+    "name": "Zumo de pomelo rojo, no concentrado, refrigerado",
+    "protein100": 0.57,
+    "kcal100": 41,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003596",
+    "name": "Zumo de tomate con ingredientes añadidos, a partir de concentrado",
+    "protein100": 0.86,
+    "kcal100": 23,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003597",
+    "name": "Zumo de naranja sin pulpa, no concentrado, refrigerado",
+    "protein100": 0.81,
+    "kcal100": 46,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2003598",
+    "name": "Portobello",
+    "protein100": 2.75,
+    "kcal100": 32,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003599",
+    "name": "Seta de cardo",
+    "protein100": 2.41,
+    "kcal100": 46,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003600",
+    "name": "Setas enoki",
+    "protein100": 2.42,
+    "kcal100": 44,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003601",
+    "name": "Champiñones cremini",
+    "protein100": 3.09,
+    "kcal100": 30,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003602",
+    "name": "Setas maitake",
+    "protein100": 2.2,
+    "kcal100": 38,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003603",
+    "name": "Setas shimeji",
+    "protein100": 2.18,
+    "kcal100": 40,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2003604",
+    "name": "Setas pioppino",
+    "protein100": 3.5,
+    "kcal100": 39,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2257044",
+    "name": "Bebida de soja natural azucarada, refrigerada",
+    "protein100": 2.78,
+    "kcal100": 41,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2257045",
+    "name": "Bebida de almendras natural sin azúcar, refrigerada",
+    "protein100": 0.66,
+    "kcal100": 19,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2257046",
+    "name": "Bebida de avena natural sin azúcar, refrigerada",
+    "protein100": 0.8,
+    "kcal100": 48,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2258586",
+    "name": "Zanahoria madura, cruda",
+    "protein100": 0.94,
+    "kcal100": 48,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2258587",
+    "name": "Zanahorias baby, crudas",
+    "protein100": 0.81,
+    "kcal100": 41,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2258588",
+    "name": "Pimiento morrón verde, crudo",
+    "protein100": 0.71,
+    "kcal100": 23,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2258589",
+    "name": "Pimiento morrón amarillo, crudo",
+    "protein100": 0.82,
+    "kcal100": 31,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2258590",
+    "name": "Pimiento morrón rojo, crudo",
+    "protein100": 0.9,
+    "kcal100": 31,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2258591",
+    "name": "Pimiento morrón naranja, crudo",
+    "protein100": 0.88,
+    "kcal100": 32,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2259792",
+    "name": "Suero de leche bajo en grasa",
+    "protein100": 3.46,
+    "kcal100": 43,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2259793",
+    "name": "Yogur natural de leche entera",
+    "protein100": 3.82,
+    "kcal100": 78,
+    "unit": "g",
+    "portionG": 170.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2259794",
+    "name": "Yogur griego natural de leche entera",
+    "protein100": 8.78,
+    "kcal100": 94,
+    "unit": "g",
+    "portionG": 170.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2259795",
+    "name": "Queso parmesano rallado, refrigerado",
+    "protein100": 30.1,
+    "kcal100": 403,
+    "unit": "g",
+    "portionG": 5.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2259796",
+    "name": "Queso feta de leche entera, desmenuzado",
+    "protein100": 19.7,
+    "kcal100": 273,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2261420",
+    "name": "Harina de almendras",
+    "protein100": 26.2,
+    "kcal100": 622,
+    "unit": "g",
+    "portionG": 15.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2261421",
+    "name": "Harina de avena integral",
+    "protein100": 13.2,
+    "kcal100": 389,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2261422",
+    "name": "Harina de patata",
+    "protein100": 8.11,
+    "kcal100": 361,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2262072",
+    "name": "Mantequilla de cacahuete cremosa",
+    "protein100": 24.0,
+    "kcal100": 632,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2262073",
+    "name": "Tahini (mantequilla de sésamo)",
+    "protein100": 19.7,
+    "kcal100": 697,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2262074",
+    "name": "Mantequilla de almendras cremosa",
+    "protein100": 20.8,
+    "kcal100": 645,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2262075",
+    "name": "Semillas de lino molidas",
+    "protein100": 18.0,
+    "kcal100": 545,
+    "unit": "g",
+    "portionG": 15.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346384",
+    "name": "Queso cottage entero",
+    "protein100": 11.6,
+    "kcal100": 103,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346385",
+    "name": "Queso crema entero, en bloque",
+    "protein100": 5.79,
+    "kcal100": 343,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346386",
+    "name": "Nata para montar",
+    "protein100": 2.02,
+    "kcal100": 343,
+    "unit": "g",
+    "portionG": 15.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346387",
+    "name": "Crema agria entera",
+    "protein100": 3.07,
+    "kcal100": 196,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346388",
+    "name": "Lechuga iceberg, cruda",
+    "protein100": 0.74,
+    "kcal100": 17,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346389",
+    "name": "Lechuga romana verde, cruda",
+    "protein100": 0.98,
+    "kcal100": 21,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346390",
+    "name": "Lechuga de hoja roja, cruda",
+    "protein100": 0.88,
+    "kcal100": 18,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346391",
+    "name": "Lechuga de hoja verde, cruda",
+    "protein100": 1.09,
+    "kcal100": 22,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346392",
+    "name": "Piñones, crudos",
+    "protein100": 15.7,
+    "kcal100": 689,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346393",
+    "name": "Almendras enteras, crudas",
+    "protein100": 21.5,
+    "kcal100": 626,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346394",
+    "name": "Nueces, mitades, crudas",
+    "protein100": 14.6,
+    "kcal100": 730,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346395",
+    "name": "Nueces pecanas, mitades, crudas",
+    "protein100": 9.96,
+    "kcal100": 750,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346396",
+    "name": "Copos de avena integral tradicionales",
+    "protein100": 13.5,
+    "kcal100": 382,
+    "unit": "g",
+    "portionG": 40.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346397",
+    "name": "Avena integral cortada",
+    "protein100": 12.5,
+    "kcal100": 381,
+    "unit": "g",
+    "portionG": 40.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346398",
+    "name": "Piña, cruda",
+    "protein100": 0.46,
+    "kcal100": 60,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346399",
+    "name": "Cerezas dulces rojo oscuro, crudas",
+    "protein100": 1.04,
+    "kcal100": 70,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346400",
+    "name": "Judías verdes, crudas",
+    "protein100": 1.97,
+    "kcal100": 40,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346401",
+    "name": "Patata Russet sin piel, cruda",
+    "protein100": 2.27,
+    "kcal100": 83,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346402",
+    "name": "Patata roja sin piel, cruda",
+    "protein100": 2.06,
+    "kcal100": 76,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346403",
+    "name": "Patata amarilla sin piel, cruda",
+    "protein100": 1.81,
+    "kcal100": 74,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346404",
+    "name": "Batata de pulpa naranja sin piel, cruda",
+    "protein100": 1.58,
+    "kcal100": 79,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346405",
+    "name": "Apio, crudo",
+    "protein100": 0.49,
+    "kcal100": 17,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346406",
+    "name": "Pepino con piel, crudo",
+    "protein100": 0.62,
+    "kcal100": 16,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346407",
+    "name": "Col verde, cruda",
+    "protein100": 0.96,
+    "kcal100": 31,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346408",
+    "name": "Col lombarda, cruda",
+    "protein100": 1.24,
+    "kcal100": 34,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346409",
+    "name": "Fresas, crudas",
+    "protein100": 0.64,
+    "kcal100": 36,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346410",
+    "name": "Frambuesas, crudas",
+    "protein100": 1.01,
+    "kcal100": 57,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346411",
+    "name": "Arándanos, crudos",
+    "protein100": 0.7,
+    "kcal100": 64,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346412",
+    "name": "Uvas rojas sin semillas, crudas",
+    "protein100": 0.91,
+    "kcal100": 86,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346413",
+    "name": "Uvas verdes sin semillas, crudas",
+    "protein100": 0.9,
+    "kcal100": 80,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2346414",
+    "name": "Compota de manzana sin azúcar, con vitamina C",
+    "protein100": 0.27,
+    "kcal100": 52,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512371",
+    "name": "Harina de amaranto",
+    "protein100": 13.2,
+    "kcal100": 384,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512372",
+    "name": "Harina de quinoa",
+    "protein100": 11.9,
+    "kcal100": 385,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512373",
+    "name": "Harina de sorgo",
+    "protein100": 8.27,
+    "kcal100": 375,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512374",
+    "name": "Harina de trigo sarraceno",
+    "protein100": 8.88,
+    "kcal100": 358,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512375",
+    "name": "Harina de centeno",
+    "protein100": 8.4,
+    "kcal100": 359,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512376",
+    "name": "Harina de cebada",
+    "protein100": 8.72,
+    "kcal100": 367,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512377",
+    "name": "Harina de yuca",
+    "protein100": 0.92,
+    "kcal100": 357,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512378",
+    "name": "Trigo sarraceno integral",
+    "protein100": 11.1,
+    "kcal100": 356,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2512379",
+    "name": "Mijo integral",
+    "protein100": 10.0,
+    "kcal100": 376,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2512380",
+    "name": "Arroz integral de grano largo, crudo",
+    "protein100": 7.25,
+    "kcal100": 366,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2512381",
+    "name": "Arroz blanco de grano largo, crudo",
+    "protein100": 7.04,
+    "kcal100": 359,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2514743",
+    "name": "Carne de res picada, 90% magra, 10% grasa, cruda",
+    "protein100": 18.2,
+    "kcal100": 185,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2514744",
+    "name": "Carne de res picada, 80% magra, 20% grasa, cruda",
+    "protein100": 17.5,
+    "kcal100": 243,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2514745",
+    "name": "Carne de cerdo picada, cruda",
+    "protein100": 17.8,
+    "kcal100": 228,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2514746",
+    "name": "Carne de pollo picada con aditivos, cruda",
+    "protein100": 17.9,
+    "kcal100": 133,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2514747",
+    "name": "Carne de pavo picada, 93% magra, 7% grasa, cruda",
+    "protein100": 17.3,
+    "kcal100": 153,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515373",
+    "name": "Nueces de Brasil, crudas",
+    "protein100": 15.0,
+    "kcal100": 664,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515374",
+    "name": "Anacardos, crudos",
+    "protein100": 17.4,
+    "kcal100": 565,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515375",
+    "name": "Avellanas, crudas",
+    "protein100": 13.5,
+    "kcal100": 641,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515376",
+    "name": "Cacahuetes, crudos",
+    "protein100": 23.2,
+    "kcal100": 588,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515377",
+    "name": "Harina de castaña",
+    "protein100": 5.29,
+    "kcal100": 385,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515378",
+    "name": "Nueces de macadamia, crudas",
+    "protein100": 7.79,
+    "kcal100": 712,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515379",
+    "name": "Pistachos, crudos",
+    "protein100": 20.5,
+    "kcal100": 598,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515380",
+    "name": "Semillas de calabaza (pepitas), crudas",
+    "protein100": 29.9,
+    "kcal100": 555,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515381",
+    "name": "Pipas de girasol, crudas",
+    "protein100": 18.9,
+    "kcal100": 609,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2515382",
+    "name": "Harina de coco",
+    "protein100": 16.1,
+    "kcal100": 438,
+    "unit": "g",
+    "portionG": 15.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644281",
+    "name": "Judías cannellini secas",
+    "protein100": 21.6,
+    "kcal100": 345,
+    "unit": "g",
+    "portionG": 35.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644282",
+    "name": "Garbanzos secos",
+    "protein100": 21.3,
+    "kcal100": 383,
+    "unit": "g",
+    "portionG": 35.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644283",
+    "name": "Lentejas secas",
+    "protein100": 23.6,
+    "kcal100": 360,
+    "unit": "g",
+    "portionG": 35.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644284",
+    "name": "Frijoles carita secos",
+    "protein100": 21.2,
+    "kcal100": 354,
+    "unit": "g",
+    "portionG": 35.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644285",
+    "name": "Frijoles negros en conserva, escurridos y enjuagados",
+    "protein100": 6.91,
+    "kcal100": 115,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644286",
+    "name": "Frijoles navy en conserva, escurridos y enjuagados",
+    "protein100": 6.57,
+    "kcal100": 119,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644287",
+    "name": "Judías cannellini en conserva, escurridas y enjuagadas",
+    "protein100": 7.41,
+    "kcal100": 115,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644288",
+    "name": "Garbanzos en conserva, escurridos y enjuagados",
+    "protein100": 7.02,
+    "kcal100": 137,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644289",
+    "name": "Frijoles rojos oscuros en conserva, escurridos y enjuagados",
+    "protein100": 7.8,
+    "kcal100": 127,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644290",
+    "name": "Frijoles rojos claros en conserva, escurridos y enjuagados",
+    "protein100": 7.31,
+    "kcal100": 127,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644291",
+    "name": "Guisantes verdes dulces en conserva, escurridos y enjuagados",
+    "protein100": 4.73,
+    "kcal100": 80,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644292",
+    "name": "Frijoles pintos en conserva, escurridos y enjuagados",
+    "protein100": 6.69,
+    "kcal100": 117,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644293",
+    "name": "Frijoles carita en conserva, escurridos y enjuagados",
+    "protein100": 6.92,
+    "kcal100": 116,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2644294",
+    "name": "Frijoles Great Northern en conserva, escurridos y enjuagados",
+    "protein100": 7.03,
+    "kcal100": 117,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646168",
+    "name": "Lomo de cerdo sin hueso, crudo",
+    "protein100": 21.1,
+    "kcal100": 168,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646169",
+    "name": "Solomillo de cerdo sin hueso, crudo",
+    "protein100": 21.6,
+    "kcal100": 119,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646170",
+    "name": "Pechuga de pollo sin piel ni hueso, cruda",
+    "protein100": 22.5,
+    "kcal100": 106,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646171",
+    "name": "Muslo de pollo sin piel ni hueso, crudo",
+    "protein100": 18.6,
+    "kcal100": 144,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646172",
+    "name": "Entrecot de res sin hueso, crudo",
+    "protein100": 18.7,
+    "kcal100": 254,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646173",
+    "name": "Tapa de redondo de res sin hueso, cruda",
+    "protein100": 21.5,
+    "kcal100": 141,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646174",
+    "name": "Paleta de res para asar, sin hueso, cruda",
+    "protein100": 18.4,
+    "kcal100": 232,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2646175",
+    "name": "Falda de res sin hueso, cruda",
+    "protein100": 20.1,
+    "kcal100": 164,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647437",
+    "name": "Yogur natural desnatado",
+    "protein100": 4.23,
+    "kcal100": 50,
+    "unit": "g",
+    "portionG": 170.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647438",
+    "name": "Queso Monterey Jack",
+    "protein100": 22.6,
+    "kcal100": 392,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647439",
+    "name": "Queso procesado americano, lonchas individuales",
+    "protein100": 15.6,
+    "kcal100": 310,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647440",
+    "name": "Queso provolone en lonchas",
+    "protein100": 23.5,
+    "kcal100": 357,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647441",
+    "name": "Queso Oaxaca",
+    "protein100": 22.1,
+    "kcal100": 297,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647442",
+    "name": "Queso fresco",
+    "protein100": 18.9,
+    "kcal100": 298,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2647443",
+    "name": "Queso cotija",
+    "protein100": 23.8,
+    "kcal100": 351,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684440",
+    "name": "Salmón rojo salvaje, crudo",
+    "protein100": 22.3,
+    "kcal100": 130,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684441",
+    "name": "Salmón atlántico de cultivo, crudo",
+    "protein100": 20.3,
+    "kcal100": 197,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684442",
+    "name": "Tilapia de cultivo, cruda",
+    "protein100": 19.0,
+    "kcal100": 95,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684443",
+    "name": "Camarones de cultivo, crudos",
+    "protein100": 15.6,
+    "kcal100": 71,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684444",
+    "name": "Bacalao del Atlántico salvaje, crudo",
+    "protein100": 16.1,
+    "kcal100": 66,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684445",
+    "name": "Bagre de cultivo, crudo",
+    "protein100": 16.5,
+    "kcal100": 129,
+    "unit": "g",
+    "portionG": 115.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2684446",
+    "name": "Carne de cangrejo azul, pasteurizada, refrigerada",
+    "protein100": 18.6,
+    "kcal100": 81,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685568",
+    "name": "Calabacín verde con piel, crudo",
+    "protein100": 0.98,
+    "kcal100": 19,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685569",
+    "name": "Calabaza de verano amarilla con piel, cruda",
+    "protein100": 0.89,
+    "kcal100": 22,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685570",
+    "name": "Calabaza butternut, cruda",
+    "protein100": 1.15,
+    "kcal100": 48,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685571",
+    "name": "Calabaza bellota, cruda",
+    "protein100": 1.25,
+    "kcal100": 49,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685572",
+    "name": "Col china (bok choy), cruda",
+    "protein100": 1.02,
+    "kcal100": 20,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685573",
+    "name": "Coliflor, cruda",
+    "protein100": 1.64,
+    "kcal100": 28,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685574",
+    "name": "Col berza, cruda",
+    "protein100": 2.97,
+    "kcal100": 47,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685575",
+    "name": "Coles de Bruselas, crudas",
+    "protein100": 3.98,
+    "kcal100": 60,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685576",
+    "name": "Remolacha, cruda",
+    "protein100": 1.69,
+    "kcal100": 45,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685577",
+    "name": "Berenjena, cruda",
+    "protein100": 0.85,
+    "kcal100": 26,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685578",
+    "name": "Tomates enteros en conserva, con sal",
+    "protein100": 0.87,
+    "kcal100": 22,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685579",
+    "name": "Salsa de tomate en conserva, con sal",
+    "protein100": 1.35,
+    "kcal100": 29,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685580",
+    "name": "Pasta de tomate en conserva, sin sal",
+    "protein100": 4.23,
+    "kcal100": 104,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685581",
+    "name": "Tomates triturados en conserva",
+    "protein100": 1.44,
+    "kcal100": 38,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2685582",
+    "name": "Puré de tomate en conserva",
+    "protein100": 1.58,
+    "kcal100": 41,
+    "unit": "g",
+    "portionG": 130.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710815",
+    "name": "Albaricoque con piel, crudo",
+    "protein100": 0.96,
+    "kcal100": 48,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710816",
+    "name": "Melón verde (honeydew), crudo",
+    "protein100": 0.53,
+    "kcal100": 37,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710817",
+    "name": "Plátano macho maduro, crudo",
+    "protein100": 1.16,
+    "kcal100": 136,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710818",
+    "name": "Plátano macho verde, crudo",
+    "protein100": 1.23,
+    "kcal100": 145,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710819",
+    "name": "Semillas de chía secas, crudas",
+    "protein100": 17.0,
+    "kcal100": 517,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710820",
+    "name": "Bulgur seco, crudo",
+    "protein100": 11.8,
+    "kcal100": 372,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710821",
+    "name": "Arroz salvaje seco, crudo",
+    "protein100": 12.8,
+    "kcal100": 369,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710822",
+    "name": "Rúcula baby, cruda",
+    "protein100": 1.65,
+    "kcal100": 31,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710823",
+    "name": "Espárragos verdes, crudos",
+    "protein100": 1.44,
+    "kcal100": 28,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710824",
+    "name": "Aguacate Hass pelado, crudo",
+    "protein100": 1.81,
+    "kcal100": 223,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710825",
+    "name": "Arroz negro, crudo",
+    "protein100": 7.57,
+    "kcal100": 370,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710826",
+    "name": "Maíz dulce amarillo y blanco, fresco, crudo",
+    "protein100": 2.79,
+    "kcal100": 85,
+    "unit": "g",
+    "portionG": 85.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710827",
+    "name": "Trigo einkorn en grano, seco",
+    "protein100": 15.1,
+    "kcal100": 369,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710828",
+    "name": "Farro perlado, seco",
+    "protein100": 12.6,
+    "kcal100": 367,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710829",
+    "name": "Fonio en grano, seco",
+    "protein100": 7.17,
+    "kcal100": 369,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710830",
+    "name": "Trigo Khorasan en grano, seco",
+    "protein100": 14.8,
+    "kcal100": 371,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710831",
+    "name": "Kiwi verde pelado, crudo",
+    "protein100": 1.01,
+    "kcal100": 65,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710832",
+    "name": "Mandarina sin semillas, pelada, cruda",
+    "protein100": 1.04,
+    "kcal100": 62,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710833",
+    "name": "Mango Tommy Atkins pelado, crudo",
+    "protein100": 0.56,
+    "kcal100": 68,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710834",
+    "name": "Mango Ataulfo pelado, crudo",
+    "protein100": 0.69,
+    "kcal100": 78,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710835",
+    "name": "Harina de maíz (masa harina) blanca o amarilla, seca",
+    "protein100": 7.56,
+    "kcal100": 376,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710836",
+    "name": "Pera Anjou verde con piel, cruda",
+    "protein100": 0.31,
+    "kcal100": 64,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710837",
+    "name": "Ciruela negra con piel, cruda",
+    "protein100": 0.58,
+    "kcal100": 53,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710838",
+    "name": "Arroz rojo seco, sin enriquecer",
+    "protein100": 8.56,
+    "kcal100": 370,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710839",
+    "name": "Salvado de sorgo blanco, seco",
+    "protein100": 11.2,
+    "kcal100": 403,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710840",
+    "name": "Harina de sorgo blanco perlado, seca",
+    "protein100": 10.2,
+    "kcal100": 364,
+    "unit": "g",
+    "portionG": 30.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710841",
+    "name": "Sorgo blanco perlado en grano, seco",
+    "protein100": 10.2,
+    "kcal100": 370,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710842",
+    "name": "Sorgo blanco integral, seco",
+    "protein100": 10.1,
+    "kcal100": 373,
+    "unit": "g",
+    "portionG": 45.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2710843",
+    "name": "Plátano macho muy maduro, crudo",
+    "protein100": 1.17,
+    "kcal100": 130,
+    "unit": "g",
+    "portionG": 140.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727566",
+    "name": "Muslo inferior de pollo con piel, crudo",
+    "protein100": 18.4,
+    "kcal100": 125,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727567",
+    "name": "Muslo de pollo con piel, crudo",
+    "protein100": 17.1,
+    "kcal100": 188,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727568",
+    "name": "Ala de pollo con piel, cruda",
+    "protein100": 18.4,
+    "kcal100": 168,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727569",
+    "name": "Pechuga de pollo con piel, cruda",
+    "protein100": 21.4,
+    "kcal100": 127,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727570",
+    "name": "Carne de cordero picada, cruda",
+    "protein100": 17.5,
+    "kcal100": 237,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727571",
+    "name": "Carne de bisonte picada, cruda",
+    "protein100": 19.9,
+    "kcal100": 159,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727572",
+    "name": "Entrecot de lomo corto de res (New York strip), crudo",
+    "protein100": 21.3,
+    "kcal100": 190,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727573",
+    "name": "Bistec de solomillo de res, crudo",
+    "protein100": 21.1,
+    "kcal100": 143,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727574",
+    "name": "Bistec de solomillo alto de res, crudo",
+    "protein100": 22.0,
+    "kcal100": 140,
+    "unit": "g",
+    "portionG": 114.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727575",
+    "name": "Chuleta de cerdo, corte central, cruda",
+    "protein100": 22.8,
+    "kcal100": 138,
+    "unit": "g",
+    "portionG": 110.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2727576",
+    "name": "Panceta de cerdo con piel, cruda",
+    "protein100": 15.2,
+    "kcal100": 380,
+    "unit": "g",
+    "portionG": 26.0,
+    "portionLabel": "porción"
+  },
+  {
+    "id": "usda-2747652",
+    "name": "Anchoas en conserva en aceite de oliva, con sal, escurridas",
+    "protein100": 26.9,
+    "kcal100": 206,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747653",
+    "name": "Hojas de remolacha, crudas",
+    "protein100": 1.61,
+    "kcal100": 26,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747654",
+    "name": "Bacalao del Pacífico o de Alaska, congelado, salvaje",
+    "protein100": 14.2,
+    "kcal100": 61,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747655",
+    "name": "Bulbo de hinojo, crudo",
+    "protein100": 0.92,
+    "kcal100": 27,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747656",
+    "name": "Fletán congelado, salvaje",
+    "protein100": 19.1,
+    "kcal100": 81,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747657",
+    "name": "Cola de langosta congelada, salvaje",
+    "protein100": 13.0,
+    "kcal100": 59,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747658",
+    "name": "Mahi-mahi congelado, salvaje",
+    "protein100": 19.8,
+    "kcal100": 84,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747659",
+    "name": "Chirivía, cruda",
+    "protein100": 1.27,
+    "kcal100": 87,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747660",
+    "name": "Pimiento banana o húngaro, sin semillas, crudo",
+    "protein100": 0.72,
+    "kcal100": 24,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747661",
+    "name": "Jalapeño sin semillas, crudo",
+    "protein100": 0.62,
+    "kcal100": 24,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747662",
+    "name": "Poblano sin semillas, crudo",
+    "protein100": 1.43,
+    "kcal100": 28,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747663",
+    "name": "Serrano sin semillas, crudo",
+    "protein100": 0.86,
+    "kcal100": 29,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747664",
+    "name": "Radicchio, crudo",
+    "protein100": 1.31,
+    "kcal100": 26,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747665",
+    "name": "Rabanitos rojos, crudos",
+    "protein100": 0.66,
+    "kcal100": 20,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747666",
+    "name": "Vieiras pequeñas patagónicas, congeladas, salvajes",
+    "protein100": 16.4,
+    "kcal100": 78,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747667",
+    "name": "Vieiras de mar, congeladas, salvajes",
+    "protein100": 13.5,
+    "kcal100": 66,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747668",
+    "name": "Lubina chilena congelada, salvaje",
+    "protein100": 14.9,
+    "kcal100": 209,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747669",
+    "name": "Pargo congelado, salvaje",
+    "protein100": 20.7,
+    "kcal100": 90,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747670",
+    "name": "Patas de cangrejo de las nieves, congeladas",
+    "protein100": 15.5,
+    "kcal100": 69,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747671",
+    "name": "Calamar congelado, solo tubos",
+    "protein100": 8.81,
+    "kcal100": 44,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747672",
+    "name": "Pez espada congelado, salvaje",
+    "protein100": 19.2,
+    "kcal100": 152,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747673",
+    "name": "Atún de aleta amarilla congelado, salvaje",
+    "protein100": 24.7,
+    "kcal100": 102,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747674",
+    "name": "Nabo, crudo",
+    "protein100": 0.95,
+    "kcal100": 34,
+    "unit": "g"
+  },
+  {
+    "id": "usda-2747676",
+    "name": "Sandía sin semillas, solo cáscara, cruda",
+    "protein100": 0.53,
+    "kcal100": 19,
+    "unit": "g"
+  }
+]
