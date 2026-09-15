@@ -481,6 +481,7 @@ const state = {
   confirmDialog: null,
   mealOrder: "newest",
   theme: lsGet(LS_KEYS.theme, (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")),
+  language: lsGet(LS_KEYS.language, "es"),
 };
 
 function setScreen(screen) { state.screen = screen; render(); }
