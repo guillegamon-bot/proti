@@ -494,7 +494,13 @@ function render() {
 
   document.documentElement.setAttribute("data-theme", state.theme);
   const app = document.getElementById("app");
+  const oldScroll = app.querySelector(".scroll");
+  const oldScrollTop = oldScroll ? oldScroll.scrollTop : 0;
+
   app.innerHTML = buildScreen() + renderConfirmDialog();
+
+  const newScroll = app.querySelector(".scroll");
+  if (newScroll) newScroll.scrollTop = oldScrollTop;
 
   if (activeId) {
     const el = document.getElementById(activeId);
