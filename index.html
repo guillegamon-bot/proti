@@ -217,7 +217,7 @@
    ========================================================= */
 
 /* ---------------- Storage ---------------- */
-const LS_KEYS = { profile: "pt_profile", meals: "pt_meals", customFoods: "pt_custom_foods", theme: "pt_theme", weightLog: "pt_weight_log" };
+const LS_KEYS = { profile: "pt_profile", meals: "pt_meals", customFoods: "pt_custom_foods", theme: "pt_theme", weightLog: "pt_weight_log", language: "pt_language" };
 
 function lsGet(key, fallback) {
   try { const raw = localStorage.getItem(key); return raw ? JSON.parse(raw) : fallback; }
