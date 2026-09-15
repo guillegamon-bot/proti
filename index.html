@@ -376,9 +376,31 @@ function getMealType(m) {
 /** Agrupa una lista de comidas por tipo, en el orden fijo Desayuno/Almuerzo/Cena/Snack. */
 function groupMealsByType(meals) {
   var groups = {};
-  for (var i = 0; i < MEAL_TYPES.length; i++) groups[MEAL_TYPES[i].value] = [];
-  for (var j = 0; j < meals.length; j++) groups[getMealType(meals[j])].push(meals[j]);
-  return MEAL_TYPES.map(function (t) { return { type: t.value, label: t.label, meals: groups[t.value] }; }).filter(function (g) { return g.meals.length > 0; });
+  for (var i = 0; i < MEAL_TYPES.length; i++) {
+    groups[MEAL_TYPES[i].value] = [];
+  }
+
+  for (var j = 0; j < meals.length; j++) {
+    groups[getMealType(meals[j])].push(meals[j]);
+  }
+
+  var orderedTypes = MEAL_TYPES.slice();
+
+  if (state.mealOrder === "oldest") {
+    orderedTypes.reverse();
+  }
+
+  return orderedTypes
+    .map(function (t) {
+      return {
+        type: t.value,
+        label: t.label,
+        meals: groups[t.value]
+      };
+    })
+    .filter(function (g) {
+      return g.meals.length > 0;
+    });
 }
 function round1(n) { return Math.round(n * 10) / 10; }
 function pluralizeEs(word, count) {
@@ -654,7 +676,12 @@ function renderDashboard() {
   const profile = getProfile();
   const goalG = profile ? profile.proteinGoalG : 0;
   const meals = getMeals().filter(function(m) { return isSameDay(m.loggedAt, new Date()); })
-    .sort(function(a, b) { return a.loggedAt < b.loggedAt ? 1 : -1; });
+  .sort(function(a, b) {
+    if (state.mealOrder === "oldest") {
+      return a.loggedAt > b.loggedAt ? 1 : -1;
+    }
+    return a.loggedAt < b.loggedAt ? 1 : -1;
+  });
   const totalProtein = meals.reduce(function(s, m) { return s + m.protein; }, 0);
   const totalKcal = meals.reduce(function(s, m) { return s + (m.kcal || 0); }, 0);
   const pct = goalG > 0 ? Math.min(1, totalProtein / goalG) : 0;
